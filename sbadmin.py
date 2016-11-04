@@ -16,7 +16,7 @@ def serveStaticResource(resource):
 
 @app.route("/test")
 def test():
-    return "<strong>It's Alive!</strong>"
+    return "<strong>It's Alive!!!</strong>"
 
 if __name__ == '__main__':
     app.run()
