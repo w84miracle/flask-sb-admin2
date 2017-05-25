@@ -1,5 +1,6 @@
 # Flask-SB-Admin2
 SB Admin v2.0 template for python framework flask
+
 Installation
 ------------
 ```
